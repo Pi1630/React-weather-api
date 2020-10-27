@@ -1,3 +1,7 @@
+Single page react app, using openweather API
+
+A personal attempt to revisit ReactJS after long timeW
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
