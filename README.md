@@ -1,6 +1,6 @@
 Single page react app, using openweather API
 
-A personal attempt to revisit ReactJS after long timeW
+A personal attempt to revisit ReactJS after long time
 
 # Getting Started with Create React App
 
