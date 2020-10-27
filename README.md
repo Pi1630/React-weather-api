@@ -1,6 +1,6 @@
-#Single page react app, using openweather API
+# Single page react app, using openweather API
 
-##A personal attempt to revisit ReactJS after long time
+## A personal attempt to revisit ReactJS after long time
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
